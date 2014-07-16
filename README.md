@@ -23,7 +23,7 @@
 - [Limiteed](http://www.limiteed.com/)
 - [Teeturtle](http://www.teeturtle.com/)
 - [Unamee](http://www.unamee.com/)
-- [Whear Viral](http://www.wearviral.com/)
+- [Wear Viral](http://www.wearviral.com/)
 - [Tee Villain](https://www.teevillain.com/)
 - [Snappy Kids](http://www.snappykid.com/)
 - [Weeklyshirts](http://weeklyshirts.com)
