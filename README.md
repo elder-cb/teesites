@@ -11,3 +11,5 @@
 - [Redbubble](http://www.redbubble.com/shop/t-shirts?ref=home_leftnav)
 - [Society6](http://society6.com/tshirts)
 - [The Yetee](http://theyetee.com/)
+- [Society6](http://society6.com/)
+- [EMP](http://www.emp-online.it)
