@@ -49,3 +49,4 @@
 - [PopUpTee](http://popuptee.com)
 - [Blueboxtees](http://blueboxtees.com)
 - [Zebratees](http://zebratees.com)
+- [The Nerdiest Shirt](http://www.thenerdiestshirts.com/)
