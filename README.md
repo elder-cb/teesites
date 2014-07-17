@@ -29,7 +29,6 @@
 - [Weeklyshirts](http://weeklyshirts.com)
 - [ZeTee](http://zetee.eu/)
 - [The global thread collection](https://www.globalthreadcollective.com/)
-- [Threadlees](https://www.threadless.com/)
 - [Tee Busters](http://teebusters.com/)
 - [Teeconomist](https://www.teeconomist.com)
 - [Five fingers tee](http://www.fivefingertees.com)
