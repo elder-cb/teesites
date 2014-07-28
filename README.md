@@ -51,4 +51,10 @@
 - [The Nerdiest Shirt](http://www.thenerdiestshirts.com/)
 - [Elbenwald](http://www.elbenwald.de/)
 - [Litographs t-shirts](http://www.litographs.com/collections/t-shirts)
+- [RubyRags](http://www.rubyrags.com/)
+- [TopaToco](http://www.topatoco.com/merchant.mvc?Screen=CTGY&Store_Code=TO&Category_Code=ALLSHIRTS)
+- [SMBC](http://smbc.myshopify.com/collections/shirts)
+- [Glennz Tees](http://store.glennz.com/)
+- [Insanely Great Tees](http://insanelygreattees.com/)
+- [J!NX](http://www.jinx.com/shop/clothing/tshirt/)
 
