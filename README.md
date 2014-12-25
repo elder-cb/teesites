@@ -58,4 +58,4 @@
 - [Insanely Great Tees](http://insanelygreattees.com/)
 - [J!NX](http://www.jinx.com/shop/clothing/tshirt/)
 - [Ubertee](https://github.com/elder-cb/teesites)
-
+- [Companion Tees](http://companiontees.com/)
