@@ -5,6 +5,7 @@
 - [Riptapparel](http://www.riptapparel.com)
 - [Tee Fury](http://www.teefury.com)
 - [Tee Tee](http://www.teetee.eu)
+- [TheYetee](http://www.theyetee.com/shop/)
 - [6 Dollar Shirts](http://www.6dollarshirts.com)
 - [Threadless](http://www.threadless.com/)
 - [Thinkgeek](http://www.thinkgeek.com/tshirts-apparel/)
