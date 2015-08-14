@@ -16,7 +16,7 @@
 - [Teepublic](https://www.teepublic.com/)
 - [Shirt Punc Pop Culture](https://www.shirtpunch.com/)
 - [Shirt Punch TV](https://www.shirtpunch.com/tv)
-- [Disigned By Humans](http://www.designbyhumans.com)
+- [Design by Humans](http://www.designbyhumans.com)
 - [Shirtwoot!](http://shirt.woot.com)
 - [Othertees](http://www.othertees.com/)
 - [Tshirt Fight!](http://tshirtfight.com/)
