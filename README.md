@@ -55,5 +55,5 @@
 - [BLOT Tees](http://getblot.com/)
 - [Zazzle](http://www.zazzle.com/funny+tshirts)
 - [Last Exit to Nowhere](http://www.lastexittonowhere.com)
-- [Arcane Store] (http://arcanestore.com/product-category/product-type/clothing/guys-tee/)
+- [Arcane Store](http://arcanestore.com/product-category/product-type/clothing/guys-tee/)
 - [Tostadora.it](https://www.tostadora.it/t+shirt/geek/)
